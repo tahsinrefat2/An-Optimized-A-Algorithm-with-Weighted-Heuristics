@@ -1,4 +1,4 @@
-# An-Optimized-A-Algorithm-with-Weighted-Heuristics
+# An-Optimized-A-star-Algorithm-with-Weighted-Heuristics
 Pathfinding is a critical task in robotics, gaming,
 and AI, requiring algorithms that are both efficient and accurate.
 Among these, the A* algorithm is a cornerstone for its balance
